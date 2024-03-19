@@ -3,6 +3,6 @@ This was created as a demo for a [medium blog](https://medium.com/bitsrc/vite-vs
 Used Technologies<be>
   <ul>
   <li>React</li>
-  <li>Vite as the build too</li>
+  <li>Vite as the build tool</li>
   <li>Bit as a tool for component-driven development</li>
   </ul>
